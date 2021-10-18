@@ -1,5 +1,5 @@
 # Case de Target Marketing para Gelateria Lillo
-case apresentado em processo seletivo para vaga de Data Analyst.
+case apresentado em processo seletivo para vaga de Data Scientist.
 
 Entregáveis:
 - Recomendação de segmentação de clientes e sugestão de estratégia de venda/promoção adequada para cada segmento identificado. (Nosso interesse é em entender como a segmentação foi gerada e quais são as características de cada segmento que sustentam a sugestão de estratégia)
